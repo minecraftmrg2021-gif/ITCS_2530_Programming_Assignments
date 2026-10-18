@@ -1,1 +1,3 @@
-# NewRepo
+Mason Gray
+ITCS_2530_Programming_Assignments
+3D moddelling
